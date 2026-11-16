@@ -1,0 +1,6 @@
+{
+  "name": "Humanity World",
+  "description": "Free learning, community empowerment, and multilingual AI study guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
